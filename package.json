@@ -1,21 +1,15 @@
+
 {
   "name": "mikrotik-manager",
   "version": "3.0.0",
   "description": "MikroTik Manager: PWA + API com alertas automáticos por ID (Web Push)",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-{
-  "name": "mikrotik-manager",
-  "version": "3.0.0",
   "engines": {
     "node": "22.x"
   },
   "scripts": {
     "start": "node index.js"
-  }
-}
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "better-sqlite3": "^11.0.0",
